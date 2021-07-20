@@ -21,7 +21,7 @@ https://blog.csdn.net/weixin_43569276/article/details/112723904?
 https://google-cartographer-ros.readthedocs.io/en/latest/compilation.html
 
 错误说明
-  1. 类似以下代码中路径需改用绝对路径                           
+  1. 类似以下代码，如果报错，则路径改用绝对路径                           
   roslaunch cartographer_ros offline_backpack_2d.launch bag_filenames:=${HOME}/Downloads/b2-2016-04-05-14-44-52.bag
   2. 运行时间较长
 
