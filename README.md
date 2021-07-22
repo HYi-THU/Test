@@ -1,10 +1,10 @@
 # ROS-
 
-系统概述  SYSTEM OVERVIEW
-  Ubuntu 18.04.5 LTS
-  ROS verision 1.14.11
-  激光雷达  镭神C16
-  Lidar-SLAM: Cartographer
+系统概述  SYSTEM OVERVIEW 
+  Ubuntu 18.04.5 LTS  
+  ROS verision 1.14.11  
+  激光雷达  镭神C16 
+  Lidar-SLAM: Cartographer  
 
 ROS安装相关信息
   sudo rosdep init ERROR: cannot download default sources list from:【closed】
