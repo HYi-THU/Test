@@ -1,9 +1,9 @@
 # ROS-
 
 系统概述  SYSTEM OVERVIEW   
-硬件：
+硬件：  
 ·激光雷达  镭神C16   
-·XW-IMU5100 MEMS
+·XW-IMU5100 MEMS    
 软件：
 ·Ubuntu 18.04.5 LTS    
 ·ROS verision 1.14.11    
